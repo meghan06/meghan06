@@ -1,6 +1,6 @@
 Greetings!
 
-My name is Ryan, and I'm a proficient software developer who is highly passionate about everything related to computers, especially the art of breaking them. At present, I'm working on a dedicated GitHub repository, which goes by the name of ChromebookOSX. The main objective of this repository is to make Chromebooks functional with the macOS operating system, which will further enhance their capabilities and increase their user base.
+I'm a proficient software developer who is highly passionate about everything related to computers, especially the art of breaking them. At present, I'm working on a dedicated GitHub repository, which goes by the name of ChromebookOSX. The main objective of this repository is to make Chromebooks functional with the macOS operating system, which will further enhance their capabilities and increase their user base.
 
 
 Apart from my ongoing work, I'm also currently engaged in expanding my knowledge and honing my skills in various fields. For instance, I'm actively learning the intricacies of penetration testing, which is a highly specialized area of cybersecurity, as well as delving deeper into the world of Python, an object-oriented programming language.
